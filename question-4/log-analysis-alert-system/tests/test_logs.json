@@ -1,0 +1,7 @@
+[
+    {"message": "Application started successfully."},
+    {"message": "ERROR_CODE_123: Critical failure in module X."},
+    {"message": "User logged in."},
+    {"message": "ERROR_CODE_456: Disk space low."},
+    {"message": "Data processed successfully."}
+]
