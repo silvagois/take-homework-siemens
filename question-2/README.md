@@ -1,7 +1,3 @@
-Here is the translated documentation into English. You can use this to create a `README.md` file:
-
----
-
 # Code Documentation
 
 This code is designed to process a set of user records, filter those who logged in before a cutoff date, and find the pair of logins closest in time. Below is the description of each function and its purpose:
